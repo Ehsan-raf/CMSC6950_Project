@@ -1,5 +1,4 @@
-# CMSC6950_Project
+# CMSC6950 - Course Project for Spring 2021
 ## Topic: argopy
-Course project for CMSC6950 Spring 2021
 
 Ehsan Rafiei Azad
