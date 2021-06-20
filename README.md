@@ -2,3 +2,5 @@
 ## Topic: argopy
 
 Ehsan Rafiei Azad
+
+argopy is a Python program for performing statistics on [Argo data](http://www.argo.ucsd.edu/) and creating global statistics atlases. The tools enable hundreds of cores to brew the Argo database's over two million profiles.
