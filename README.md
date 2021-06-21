@@ -37,3 +37,17 @@ Clean the files
 make clean
 make deepclean
 ```
+
+## Resuts
+
+**Task1** - Concentration to emissions hybrid
+
+<img src="Task1.png" width="45%">
+
+**Task2** - Global Mean Temperature Projection
+
+<img src="Task2.png" width="70.3%">
+
+**Task3** - Filtering and plotting
+
+<img src="Task3.png" width="70.3%"> 
