@@ -40,14 +40,10 @@ make deepclean
 
 ## Resuts
 
-**Task1** - Concentration to emissions hybrid
+**Task1** - Concentration to emissions by CO2
 
 <img src="Task1.PNG" width="45%">
 
 **Task2** - Global Mean Temperature Projection
 
 <img src="Task2.PNG" width="70.3%">
-
-**Task3** - Filtering and plotting
-
-<img src="Task3.PNG" width="70.3%"> 
